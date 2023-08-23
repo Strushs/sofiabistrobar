@@ -253,3 +253,27 @@ hr{
     text-decoration: none;
     font-size: 2em;
 }
+
+table {
+    width: 100%;
+}
+
+td {
+    border-bottom: dotted 1px black;
+    width: auto;
+}
+
+#lew {
+    text-align: left;
+    padding: 1em 0;
+}
+
+
+#praw {
+    text-align: right;
+}
+
+
+span#jedz{
+    margin: 2em;
+}
