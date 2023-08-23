@@ -62,6 +62,10 @@ footer{
         font-weight: 900;
     }
 
+    #info {
+        align-items: center;
+    }
+    
     #info p {
         font-size: 1.3em;
         line-height: 1.6em;
