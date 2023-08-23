@@ -63,7 +63,7 @@ footer{
     }
 
     #info {
-        align-items: center;
+        text-align: center;
     }
     
     #info p {
@@ -284,6 +284,6 @@ span#jedz{
 }
 
 #fb{
-    background: none;
+    background: rgba(255,255,255,0);
     border: 0;
 }
