@@ -61,10 +61,6 @@ footer{
         background-color: #adfc8e;
         font-weight: 900;
     }
-
-    #info {
-        text-align: center;
-    }
     
     #info p {
         font-size: 1.3em;
@@ -284,6 +280,10 @@ span#jedz{
 }
 
 #fb{
-    background: rgba(255,255,255,0);
+    background: none;
     border: 0;
+}
+
+#fbdiv{
+    text-align: center;
 }
